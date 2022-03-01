@@ -1,0 +1,435 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the names of the adventurers in the Bank of Scotland January 1. 1696.</title>
+            <author>Bank of Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04081</idno>
+            <idno type="STC">Wing L2465A</idno>
+            <idno type="STC">ESTC R181345</idno>
+            <idno type="EEBO-CITATION">52528848</idno>
+            <idno type="OCLC">ocm 52528848</idno>
+            <idno type="VID">178829</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178829)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2772:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the names of the adventurers in the Bank of Scotland January 1. 1696.</title>
+                  <author>Bank of Scotland.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson, printer to his most excellent Majesty, City, and Colledge,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bank of Scotland --  Registers.</term>
+               <term>Banks and banking --  Scotland --  Early works to 1800.</term>
+               <term>Stockholders --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178829:1"/>
+            <head>A LIST of the NAMES of the ADVENTURERS IN THE BANK of SCOTLAND, <hi>January</hi> 1. 1696.</head>
+            <p>
+               <hi>Nota,</hi> That thoſe Marked *** are by their Adventures Capable to be Choſen Governour, Deputy-Governours, or Directors. Thoſe Marked with ** Deputy-Governour or Directors. And thoſe Marked with * Directors.</p>
+            <list>
+               <head>A</head>
+               <item>***M<hi rend="sup">R.</hi> William Areskine Son to the de<g ref="char:EOLhyphen"/>ceaſt David Lord <hi>Cardros</hi>
+               </item>
+               <item>***Lieut. Coll. John Areskine his Brother</item>
+               <item>***Sir Patrick Aikenhead Commiſſar-Clerk of <hi>Edinburgh</hi>
+               </item>
+               <item>**Ja. Achinleck Chirurgion Apothecary</item>
+               <item>*Sir William Anſtruther of that Ilk</item>
+               <item>*Captain John Areskine Brother to <hi>Alva</hi>
+               </item>
+               <item>Robert Anſtruther of <hi>Wrae</hi>
+               </item>
+               <item>Sir John Areskine of <hi>Alva</hi>
+               </item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>***John Lord <hi>Belhaven</hi>
+               </item>
+               <item>***David Boill of <hi>Kelburn</hi>
+               </item>
+               <item>***George Baillie of <hi>Jerviſwood</hi>
+               </item>
+               <item>***Thomas Bruce Muſter-Maſter General</item>
+               <item>***John Baillie Chirurgion Apothecary</item>
+               <item>***Mr. Robert Blackwood Merchant</item>
+               <item>***Alexander Brand Merchant</item>
+               <item>***<hi>E.</hi> John Browning Gentleman</item>
+               <item>***<hi>E.</hi> Edward Banniſter Gentleman</item>
+               <item>**William Baillie of <hi>Lammingtoun</hi>
+               </item>
+               <item>**Sir William Binning of <hi>Walliford</hi>
+               </item>
+               <item>**Dr. Andrew Brown</item>
+               <item>**Alexander Baird Merchant</item>
+               <item>**Robert Blackwood Merchant</item>
+               <item>*Sir Alexander Bannerman of <hi>Elſick</hi>
+               </item>
+               <item>*Mr. Robert Bannerman his Brother</item>
+               <item>*Walter Boſwal of <hi>Balbarlan</hi>
+               </item>
+               <item>*James Byres Merchant</item>
+               <item>*William Bonner Clerk to the Mint</item>
+               <item>*<hi>E.</hi> Francis Beyer Merchant</item>
+               <item>*<hi>E.</hi> John Blackler Gentleman</item>
+               <item>*<hi>E.</hi> Phineas Bowells Merchant</item>
+               <item>*<hi>E.</hi> Lancellot Burton Gentleman</item>
+               <item>
+                  <hi>E.</hi> William Becher <hi>Eſquire</hi>
+               </item>
+               <item>Hugh Brown Writer in <hi>Edinburgh</hi>
+               </item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>***Lord <hi>Carmichael</hi>
+               </item>
+               <item>***George Clerk <hi>Senior</hi> Merchant</item>
+               <item>***George Clerk <hi>Junior</hi> Merchant</item>
+               <item>***James Cockburn Goldſmith</item>
+               <item>***<hi>E.</hi> David Campbell Gentleman</item>
+               <item>***<hi>E.</hi> Thomas Couts Merchant</item>
+               <item>***<hi>E.</hi> James Cheiſly Merchant</item>
+               <item>***<hi>E.</hi> James Campbel Merchant</item>
+               <item>***<hi>E.</hi> Nathaneel Carpenter Draper</item>
+               <item>**Alexander Campbel Merchant</item>
+               <item>*John Crawfurd of <hi>Ferguſhill</hi>
+               </item>
+               <item>*David Crawfurd Secretary to her Grace the Dutches of <hi>Hamilton</hi>
+               </item>
+               <item>*Patrick Couts Merchant</item>
+               <item>*James Clerk Ingraver to the Mint</item>
+               <item>*William Corſs Merchant in <hi>Glaſgow</hi>
+               </item>
+               <item>*Hugh Cuninghame Writer to the Signet</item>
+            </list>
+            <list>
+               <head>D</head>
+               <item>***Sir Robert Dickſon of <hi>Sornbeg</hi>
+               </item>
+               <item>***<hi>E.</hi> Thomas Deans <hi>Eſquire</hi>
+               </item>
+               <item>***<hi>E.</hi> Robert Davis Apothecary</item>
+               <item>**Mr. Hugh Dalrymple Advocat</item>
+               <item>**Mr. John Duncan Merchant</item>
+               <item>*William Drummond Brother to <hi>Logie-Almond</hi>
+               </item>
+               <item>*John Drummond Brother to <hi>Cultmalun<g ref="char:EOLhyphen"/>die</hi>
+               </item>
+               <item>*Mr. David Drummond Advocat</item>
+               <item>*Mr. James Dalrymple of <hi>Killoch</hi>
+               </item>
+               <item>*Doctor Thomas Dalrymple</item>
+               <item>*William Dumbar Merchant</item>
+               <item>Doctor Alexander Dundas</item>
+            </list>
+            <list>
+               <head>E</head>
+               <item>***<hi>E.</hi> James Eyton Merchant</item>
+               <item>***<hi>E.</hi> William Elliot Lace-man</item>
+               <item>**John Idingtoun Writer</item>
+               <item>*Mr. James Elphingſtoun of <hi>Legie</hi> Writer to the Signet</item>
+               <item>*Doctor William Eckles</item>
+               <item>*William Elliot Merchant</item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>***<hi>E.</hi> James Foulis Merchant</item>
+               <item>***Hugh Frazer Merchant</item>
+               <item>*John Forbes Son to <hi>Foveran</hi>
+               </item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>***Gold-Smiths of <hi>Edinburgh</hi>
+               </item>
+               <item>***<hi>E.</hi> James Gray <hi>Eſq.</hi>
+               </item>
+               <item>***<hi>E.</hi> William Grahame Merchant</item>
+               <item>*John Geills Merchant</item>
+               <item>*<hi>E.</hi> David Gray Merchant</item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>***Dutcheſs of <hi>HAMILTON</hi>
+               </item>
+               <item>***Lord John Hamilton</item>
+               <item>***Lord Baſill Hamilton</item>
+               <item>***Charles Hope of <hi>Hoptoun</hi>
+               </item>
+               <item>***<hi>E.</hi> William Hamilton Gentleman</item>
+               <item>***<hi>E.</hi> William Hammond Merchant</item>
+               <item>***<hi>E.</hi> John Holland Merchant</item>
+               <item>**Sir John Hume of <hi>Blackader</hi>
+               </item>
+               <item>**Sir James Hall of <hi>Dunglaſs</hi>
+               </item>
+               <item>**George Hume of <hi>Kimmerghame</hi>
+               </item>
+               <item>*Lady Margaret Hope of <hi>Hoptoun</hi>
+               </item>
+               <item>*Sir David Home of <hi>Croſrig</hi>
+               </item>
+               <item>*Sir John Hamilton of <hi>Halcraig</hi>
+               </item>
+               <item>*Sir Archibald Hope of <hi>Renkilor</hi>
+               </item>
+               <item>*Dame Bathia Harper</item>
+               <item>*John Halden of <hi>Glenegies</hi>
+               </item>
+               <item>*James Hamilton Writer to the Signet</item>
+               <item>*John Hay Merchant</item>
+               <item>*Alexander Heriot Merchant</item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>***<hi>E.</hi> James Johnſtoun <hi>Eſq.</hi> Secretary of State.</item>
+               <item>*Mr. Robert Innes Writer to the Signet</item>
+               <item>*Alexander Innes Merchant</item>
+               <item>*Robert Inglis Goldſmith</item>
+               <item>*William Jeffray Merchant</item>
+            </list>
+            <list>
+               <head>K</head>
+               <item>***<hi>E.</hi> Daniel King Merchant</item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>***Earl of <hi>Levin</hi>
+               </item>
+               <item>***George Lockhart of <hi>Carmrath</hi>
+               </item>
+               <item>***<hi>E.</hi> Captain David Lambart</item>
+               <item>*George Lin Merchant</item>
+               <item>*George Lockhart Merchant in <hi>Glaſgow</hi>
+               </item>
+               <item>*<hi>E.</hi> William Lattoun Gentleman</item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>***Sir Thomas Murray of <hi>Glendoick</hi>
+               </item>
+               <item>***James M<hi rend="sup">c</hi>clurg Merchant</item>
+               <item>***William Menȝies Merchant</item>
+               <item>***James Marjoribanks Merchant</item>
+               <item>***Andrew Myreton Merchant</item>
+               <item>**James M<hi rend="sup">c</hi>kenȝie Son to the Viſcount of <hi>Tarbat</hi>
+               </item>
+               <item>**Mr. John Mackenȝie Clerk to the Seſſion</item>
+               <item>**Mr. Alexander Mackcleod Advocat</item>
+               <item>**John Marjoribanks Merchant</item>
+               <item>**Edward Marjoribanks Merchant</item>
+               <item>**Samuel Mclelland Merchant</item>
+               <item>**John Murray <hi>Junior</hi> Merchant</item>
+               <item>**Mr. Henry Maul of <hi>Kellie</hi>
+               </item>
+               <item>*Sir Alexander Monro of <hi>Bearcrofts</hi>
+               </item>
+               <item>*David Moncreiff Clerk to the Council</item>
+               <item>*Mr. James Martine late Regent in <hi>St. Andrews</hi>
+               </item>
+            </list>
+            <list>
+               <head>N</head>
+               <item>***<hi>E.</hi> David Nairn <hi>Eſq.</hi>
+               </item>
+               <item>*James Nairn Merchant</item>
+            </list>
+            <list>
+               <head>O</head>
+               <item>*Doctor Charles Oliphant</item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>***James Earl of <hi>Panmure</hi>
+               </item>
+               <item>***Lord <hi>Polwarth</hi>
+               </item>
+               <item>***James Pringle of <hi>Torwoodlie</hi>
+               </item>
+               <item>***<hi>E.</hi> Robert Petre Merchant</item>
+               <item>*Counteſs Dowager of <hi>Panmure</hi>
+               </item>
+               <item>*Sir John Pringle of <hi>Stitchill</hi>
+               </item>
+               <item>*Gavin Plumber Merchant</item>
+               <item>*<hi>E.</hi> James Pitts Merchant</item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>***Lord <hi>Ruthven</hi>
+               </item>
+               <item>***Mr. David Ramſay Writer to the Signet</item>
+               <item>***<hi>E.</hi> William Robinſon Gentleman</item>
+               <item>*Countes of <hi>Rothes</hi>
+               </item>
+               <item>*Henry Rollo of <hi>Woodſide</hi>
+               </item>
+               <item>*David Ramſay Merchant</item>
+               <item>*Alexander Ramſay Servitor to the Mar<g ref="char:EOLhyphen"/>ques of <hi>Tweeddale</hi>
+               </item>
+               <item>*David Robertſon Vintner</item>
+               <item>George Robertſon of <hi>Newbigging</hi>
+               </item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>***Sir John Swintoun of that Ilk</item>
+               <item>***John Stuart of <hi>Gairntillie</hi>
+               </item>
+               <item>***Captain Charles Straiton</item>
+               <item>***Mr. David Scrimzeour of <hi>Cartmore</hi>
+               </item>
+               <item>***<hi>E.</hi> Alexander Stevenſon Gentleman</item>
+               <item>***<hi>E.</hi> Walter Stuart Merchant</item>
+               <item>***<hi>E.</hi> William Stonehewer Merchant</item>
+               <item>**Sir Archibald Stevinſon <hi>M. D.</hi>
+               </item>
+               <item>**Thomas Spence Writer</item>
+               <item>*Sir Robert Sinclair of <hi>Stevinſon</hi>
+               </item>
+               <item>*James Scot of <hi>Logie</hi>
+               </item>
+               <item>*James Scot of <hi>Benholm</hi>
+               </item>
+               <item>*Patrick Scot Son to <hi>Benholm</hi>
+               </item>
+               <item>*John Spence of <hi>Blair</hi>
+               </item>
+               <item>*Mr. James Smollet one of the Commiſ<g ref="char:EOLhyphen"/>ſars of <hi>Edinburgh</hi>
+               </item>
+               <item>*Mr. Robert Stuart <hi>Junior</hi> Advocat</item>
+               <item>*Patrick Steil Vintner</item>
+               <item>Robert Scot Son to <hi>Benholm</hi>
+               </item>
+               <item>Hercules Scot his Brother</item>
+               <item>John Scrimſeor Merchant in <hi>Dundee</hi>
+               </item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>*JOHN Marques of <hi>Tweeddale</hi> Lord High Chancellor</item>
+            </list>
+            <list>
+               <item>***Patrick Thomſon Merchant</item>
+            </list>
+            <list>
+               <head>W</head>
+               <item>***Robert Watſon Merchant</item>
+               <item>***John Watſon Merchant</item>
+               <item>***<hi>E.</hi> John Ward Gold-ſmith</item>
+               <item>*Peter Wedderburn of <hi>Gosford</hi>
+               </item>
+               <item>*Robert Walwood Merchant</item>
+               <item>*John Watſon <hi>Junior</hi> Merchant</item>
+               <item>Mr. Robert White Merchant in <hi>Kirk<g ref="char:EOLhyphen"/>aldie</hi>
+               </item>
+               <item>Iſobel Winram Relict of Mr. John Smith Advocat</item>
+            </list>
+            <list>
+               <head>Y</head>
+               <item>*Lord <hi>Yester</hi>
+               </item>
+               <item>*Thomas Young of <hi>Roſebank.</hi>
+               </item>
+            </list>
+            <p>The Adventurers are deſired to Write the Names of the Perſons they Vote for Alphabetically, and are to take Notice, that the Reſidenters in <hi>England</hi> are Diſtinguiſhed by the Letter <hi>E.</hi> before each of their Names.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Printer to His moſt Excellent Majeſty, City and Colledge, <hi>Anno DOM.</hi> 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
